@@ -1,0 +1,14 @@
+### Task 07: LLM Prompts and Outputs
+
+Prompt 1:
+Describe the shift in Syracuse Football offensive strategy from 2021 to 2024.
+Output:
+2021: run-first, 213 rush yards/game, 153 pass yards/game.
+2024: pass-first, 97 rush yards/game, 370 pass yards/game.
+Annotations: Verified using Task_05 Python dictionary; edits made for clarity.
+
+Prompt 2:
+What are the efficiency gains from 2021 to 2024?
+Output:
+Third-down: 32.9% → 49%; Red-zone TD: 58.8% → 69.4%; Yards/game +100.
+Annotations: Verified with Python calculations; edits for concise explanation.

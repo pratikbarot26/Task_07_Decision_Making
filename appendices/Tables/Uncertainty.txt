@@ -1,0 +1,2 @@
+Yards per game CI: (np.float64(-225.24864942664243), np.float64(1059.3486494266424))
+Points per game CI: (np.float64(-28.948541787587658), np.float64(87.94854178758766))

@@ -1,0 +1,9 @@
+Missing Values:
+Yards_Per_Game     0
+Points_Per_Game    0
+Plays_Per_Game     0
+dtype: int64
+Z-Scores:
+   Yards_Per_Game  Points_Per_Game  Plays_Per_Game
+0             1.0              1.0             1.0
+1             1.0              1.0             1.0
